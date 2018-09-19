@@ -1,6 +1,6 @@
 ## Access
 
-IP: 35.159.37.46
+IP: 35.159.37.46  PORT: 2200
 
 URL: http://ec2-35-159-37-46.eu-central-1.compute.amazonaws.com/
 
